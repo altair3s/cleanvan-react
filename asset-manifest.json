@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cleanvan-react/static/css/main.4bb6c87e.css",
-    "main.js": "/cleanvan-react/static/js/main.f9c51fff.js",
+    "main.js": "/cleanvan-react/static/js/main.d0138e2b.js",
     "static/js/453.35ef88b9.chunk.js": "/cleanvan-react/static/js/453.35ef88b9.chunk.js",
     "index.html": "/cleanvan-react/index.html",
     "main.4bb6c87e.css.map": "/cleanvan-react/static/css/main.4bb6c87e.css.map",
-    "main.f9c51fff.js.map": "/cleanvan-react/static/js/main.f9c51fff.js.map",
+    "main.d0138e2b.js.map": "/cleanvan-react/static/js/main.d0138e2b.js.map",
     "453.35ef88b9.chunk.js.map": "/cleanvan-react/static/js/453.35ef88b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bb6c87e.css",
-    "static/js/main.f9c51fff.js"
+    "static/js/main.d0138e2b.js"
   ]
 }
