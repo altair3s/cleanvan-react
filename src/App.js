@@ -245,7 +245,7 @@ const VehicleCleaningSimulator = () => {
           <Calculator className="mr-3 text-blue-600" />
           Simulateur de Nettoyage de Véhicules Professionnels
         </h1>
-        <p className="text-gray-600">Calculez vos tarifs optimaux et générez votre planning d'interventions</p>
+        <p className="text-gray-600">Calcule des tarifs optimaux et génération de planning d'interventions</p>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
